@@ -6,7 +6,7 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://dl3.smartisan.com/ota/mol.darwin-ard11-rom-8.5.0-SEKSA.darwin-user/202207181841/8.5.3-202207181710-user-drw-afb56dfbfc.zip'
+        default: 'https://8chb9ffg8ta1s0bj5abeu9sfajnhrggvhjnj7je8b2n6vci2t6efu2nm.qc.dolfincdnx.cn:10443/xdispatch78e7c9f36f06ed86/bigota.d.miui.com/V14.0.22.12.8.DEV/miui_ALIOTH_V14.0.22.12.8.DEV_b32a86af08_13.0.zip'
       REPACK_NAME:
         description: 'REPACK_NAME'
         required: true
